@@ -11,17 +11,18 @@
   body{
     width:960px;
   }
-  
+
+ 
   
 @media(min-width: 768px){
-  header, aside, section, article, footer {
+  header,  section, footer {
       max-width: 960px;
   }
   
 }
 
 @media only screen and (max-width: 500px) {
-  header, aside, section, article, footer {
+  header, section, footer {
       max-width: 500px;
   }
 }
