@@ -1,0 +1,17 @@
+
+.all {
+    float: left;
+    outline: 1px solid pink;
+}
+
+
+body{
+    margin: auto;
+    text-align: center;
+    background-color: rgb(17, 101, 73);
+    position: absolute;
+}
+.a{
+    float:left;
+
+}
